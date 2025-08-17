@@ -1,0 +1,8 @@
+# Python bytecode (including nested)
+**/__pycache__/
+**/*.py[cod]
+*$py.class
+
+# Environment files (nested)
+**/.env
+**/venv/
