@@ -6,3 +6,4 @@
 # Environment files (nested)
 **/.env
 **/venv/
+.env
